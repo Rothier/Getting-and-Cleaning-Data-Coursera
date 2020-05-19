@@ -20,49 +20,34 @@ A 'tidyDataset.txt' file with all the averages of the columns asked for in the a
 
 # Variable names
 
-\$ Subject
-Subject ID (30 subjects)
+\$ Subject: Subject ID (30 subjects)
 
-\$Intensity
-Intensity of measured exercise(Walking, walking upstairs, walking downstairs, sitting, standing and laying)
+\$ Intensity: Intensity of measured exercise(Walking, walking upstairs, walking downstairs, sitting, standing and laying)
 
 - The measurement variables that come after have a pattern. All values hereafter are an average of the results across multiple sessions.
 
-\$ Time
-Time domain signal
+\$ Time: Time domain signal
 
-\$ Frequency
-Frequency domain signal
+\$ Frequency: Frequency domain signal
 
-\$ Body
-Measurement of body acceleration
+\$ Body: Measurement of body acceleration
 
-\$ Gravity
-Measurement of gravitational acceleration
+\$ Gravity: Measurement of gravitational acceleration
 
-\$ Mean
-Average across exercises
+\$ Mean: Average across exercises
 
-\$ SD
-Standard deviation across exercises
+\$ SD: Standard deviation across exercises
 
-\$ Jerk
-Measurement of jerk rate
+\$ Jerk: Measurement of jerk rate
 
-\$ Magnitude
-Magnitude of the acceleration vector
+\$ Magnitude: Magnitude of the acceleration vector
 
-\$ Accelerometer
-Measured with accelerometer (Triaxil acceleration)
+\$ Accelerometer: Measured with accelerometer (Triaxil acceleration)
 
-\$ Gyroscope
-Measured with gyroscope (Angular velocity)
+\$ Gyroscope: Measured with gyroscope (Angular velocity)
 
-\$ X
-Measured in the X-axis
+\$ X: Measured in the X-axis
 
-\$ Y
-Measured in the Y-axis
+\$ Y: Measured in the Y-axis
 
-\$ Z
-Measured in the Z-axis
+\$ Z: Measured in the Z-axis
